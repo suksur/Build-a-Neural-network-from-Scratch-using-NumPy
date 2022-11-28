@@ -16,10 +16,12 @@ built neural network will predict the price of the house in Pune, India. This pr
 also give you an in-depth idea about the working of neural networks.
 
 Aim
+
 ● To understand the working of Neural networks
 ● To build a neural network from scratch using NumPy
 
 Data Description
+
 The dataset contains information about the prices of houses based on various
 attributes. The dataset contains the prices of houses from Pune, Maharashtra(India).
 Tech Stack
@@ -27,6 +29,7 @@ Tech Stack
 ➔ Libraries: pandas, sci-kit learn, numpy
 
 Approach
+
 ● Data Preprocessing
 ○ Removing null values
 ○ Scaling numerical features
